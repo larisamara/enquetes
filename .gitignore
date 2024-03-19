@@ -1,0 +1,12 @@
+.bash_history
+.bashrc
+.cache/*
+.gitconfig
+.ipython/*
+.local/*
+.profile
+.pythonstartup.py
+.ssh/*
+.vimrc
+.virtualenvs/*
+README.txt
