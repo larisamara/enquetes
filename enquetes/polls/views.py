@@ -61,5 +61,3 @@ class ResultsView(generic.DetailView):
     template_name = 'polls/results.html'
 
 
-def vote(request, question_id):
-    ... # same as above, no changes needed.    
